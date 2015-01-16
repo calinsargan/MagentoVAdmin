@@ -1,0 +1,5 @@
+src/app/code/community/VES/VAdmin					app/code/community/VES/VAdmin
+src/app/etc/modules/*								app/etc/modules
+src/app/design/adminhtml/default/default/layout/*	app/design/adminhtml/default/default/layout
+src/app/design/adminhtml/default/default/template/*	app/design/adminhtml/default/default/template
+src/skin/adminhtml/default/default/ves_vadmin/*		skin/adminhtml/default/default/ves_vadmin
